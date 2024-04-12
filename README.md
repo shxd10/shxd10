@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shxd10&label=Profile%20views&color=0e75b6&style=flat" alt="shxd10" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shxd10&label=Profile%20views&color=0e75b6&style=flat" alt="shxd10" /> </p>
 
 - 🌱 I’m currently learning **TypeScript, React (Next.js)**
 
