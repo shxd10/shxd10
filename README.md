@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shxd10&label=Profile%20views&color=0e75b6&style=flat" alt="shxd10" /> </p>
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **golang but im lazy to write it anytime i learn stuff**
 
 - 📫 How to reach me **paolaccialesssndro@gmail.com**
 
