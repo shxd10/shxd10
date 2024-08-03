@@ -29,7 +29,7 @@
 ✨ Creating bugs since **2023**<br>
 📚 I'm currently learning **Golang**<br>
 🎯 Goals: **idk do something valuable**<br>
-🎲 Fun fact: **no fun fact today**<br>
+🎲 Fun fact: **no**<br>
 
 ###
 
