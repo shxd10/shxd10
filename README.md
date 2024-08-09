@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Alessandro</h1>
+<h1 align="center">Hey👋</h1>
 
 ###
 
@@ -29,8 +29,7 @@
 ✨ Creating bugs since **2023**<br>
 📚 I'm currently learning **Golang**<br>
 🎯 Goals: **idk do something valuable**<br>
-🎲 Fun fact: **no**<br>
-
+🎲 Fun fact: <br>
 ###
 
 <h2 align="left">🛠️ Languages and tools</h2>
@@ -63,12 +62,10 @@
 
 ###
 
-<h1></h1>
-
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=shxd10&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shxd10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=shxd10&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
