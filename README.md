@@ -4,21 +4,15 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shxd10.shxd10&left_text=Profile%20views"  />
-</div>
-
-###
-
-<p align="center">My name is Alessandro and im from Italy!</p>
-
-###
-
-<div align="center">
+  &nbsp;
   <a href="https://discord.com/users/812615237168660481" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
 ###
+
+<p align="center">My name is Alessandro and im from Italy!</p>
 
 ###
 
